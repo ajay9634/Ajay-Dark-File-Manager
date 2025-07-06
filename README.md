@@ -7,10 +7,11 @@ Designed for Windows and Wine users with clean visuals, multi-select support, an
 
 ## 🖥️ Features
 
+- 🔤 Medium font size - 15
 - 🌑 Dark mode UI with custom styles
 - 📁 Treeview with folder, file, and EXE icons
 - 🖱️ Mouse drag box selection (multi-select)
-- 🔁 Copy / Cut / Paste with overwrite handling
+- 🔁 Copy / Cut / Paste
 - 🗑️ Delete and Rename files or folders
 - 🆕 Create new files and folders
 - 🧷 Create Windows `.lnk` shortcuts via VBScript (Wine-compatible) of exe and non exe files
