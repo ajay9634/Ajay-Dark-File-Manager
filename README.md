@@ -35,7 +35,7 @@ Ctrl + E            | Toggle Executables View
 Ctrl + Enter        | Edit Item (Open in Editor)
 Alt + ←             | Go Back
 Alt + →             | Go Forward
-Alt + ↑             |
+Alt + ↑             | Go Up
 
 ## 🐞 Bugs
 
