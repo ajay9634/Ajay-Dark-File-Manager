@@ -34,7 +34,11 @@ Designed for Windows and Wine users with clean visuals, multi-select support, an
 
 ## 🚀 How to Run
 
-```bash
-python Ajay_Dark_File_Manager.py
+Install python 3.10.11 the run this cmd -
+
+`start "" /B "Python310-32\pythonw.exe" "Ajay_Dark_File_Manager.py"`
+
+
+
 
 
