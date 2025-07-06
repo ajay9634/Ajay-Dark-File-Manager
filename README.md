@@ -16,12 +16,6 @@ Designed for Windows and Wine users with clean visuals, multi-select support, an
 - 🧷 Create Windows `.lnk` shortcuts via VBScript (Wine-compatible)
 - 📂 Go to Desktop, Documents, Home, and Start Menu
 - 📜 Executable-only filter (shows only `.exe`, `.bat`, `.cmd`, `.lnk`)
-- 🕹️ Hotkeys:
-  - `F2` – Rename
-  - `F5` – Refresh
-  - `Delete` – Delete selected
-  - `Ctrl+C` / `Ctrl+X` / `Ctrl+V` – Copy / Cut / Paste
-  - `Backspace` – Go to parent folder
 
 ---
 
