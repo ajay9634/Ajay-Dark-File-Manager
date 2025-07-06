@@ -13,9 +13,14 @@ Designed for Windows and Wine users with clean visuals, multi-select support, an
 - 🔁 Copy / Cut / Paste with overwrite handling
 - 🗑️ Delete and Rename files or folders
 - 🆕 Create new files and folders
-- 🧷 Create Windows `.lnk` shortcuts via VBScript (Wine-compatible)
+- 🧷 Create Windows `.lnk` shortcuts via VBScript (Wine-compatible) of exe and non exe files
+- - 🧷 Create `.desktop` shortcuts via VBScript (Wine-compatible) of exe and non exe files
 - 📂 Go to Desktop, Documents, Home, and Start Menu
 - 📜 Executable-only filter (shows only `.exe`, `.bat`, `.cmd`, `.lnk`)
+
+## 🐞 Bugs
+
+- ⚠️ Some scripts may fail to run winrar extraction
 
 ---
 
