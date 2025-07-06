@@ -18,6 +18,21 @@ Designed for Windows and Wine users with clean visuals, multi-select support, an
 - 🧷 Create `.desktop` shortcuts via VBScript (Wine-compatible) of exe and non exe files
 - 📂 Go to Desktop, Documents, Home, and Start Menu
 - 📜 Executable-only filter (shows only `.exe`, `.bat`, `.cmd`, `.lnk`)
+- 🔐 Hotkeys = {
+    "F5": "Refresh",
+    "Ctrl+C": "Copy",
+    "Ctrl+V": "Paste",
+    "Delete": "Delete",
+    "F2": "Rename",
+    "Ctrl+Shift+N": "Create Folder",
+    "Ctrl+N": "Create File",
+    "Ctrl+L": "Create Shortcut",
+    "Ctrl+E": "Toggle Executables View",
+    "Ctrl+Enter": "Edit Item",
+    "Alt+Left": "Back",
+    "Alt+Right": "Forward",
+    "Alt+Up": "Up (Go to Parent Directory)"
+}
 
 ## 🐞 Bugs
 
