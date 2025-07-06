@@ -14,7 +14,7 @@ Designed for Windows and Wine users with clean visuals, multi-select support, an
 - 🗑️ Delete and Rename files or folders
 - 🆕 Create new files and folders
 - 🧷 Create Windows `.lnk` shortcuts via VBScript (Wine-compatible) of exe and non exe files
-- - 🧷 Create `.desktop` shortcuts via VBScript (Wine-compatible) of exe and non exe files
+- 🧷 Create `.desktop` shortcuts via VBScript (Wine-compatible) of exe and non exe files
 - 📂 Go to Desktop, Documents, Home, and Start Menu
 - 📜 Executable-only filter (shows only `.exe`, `.bat`, `.cmd`, `.lnk`)
 
@@ -26,7 +26,7 @@ Designed for Windows and Wine users with clean visuals, multi-select support, an
 
 ## 📦 Requirements
 
-- Python 3.6+
+- Python 3.10.11+
 - `tkinter` (usually preinstalled with Python)
 
 ---
