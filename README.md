@@ -7,7 +7,7 @@ Designed for Windows and Wine users with clean visuals, multi-select support, an
 
 ## 🖥️ Features
 
-- 🔤 Medium font size - 15
+- 🔤 Medium font size - 14
 - 🌑 Dark mode UI with custom styles
 - 📁 Treeview with folder, file, and EXE icons
 - 🖱️ Mouse drag box selection (multi-select)
